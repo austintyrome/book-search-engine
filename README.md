@@ -15,8 +15,6 @@ If you encounter any bugs or issues with the project, please report them on our 
 
 ### Feature Requests
 We welcome feature requests and suggestions for improving the project. If you have an idea for a new feature or enhancement, please submit a feature request on our GitHub Issues page. Be sure to provide a clear description of the proposed feature and why you think it would be valuable. <!-- leave this blank -->
-## Contact
-[GitHub](https://github.com/djinjones) for general inquiries or further assistance, you can contact the project maintainer directly via discord [Discord](https://discordapp.com/users/rexzeri) <!-- leave this blank -->
 
 ## Contributing
 If you're interested in contributing to the project, please read our Contributing Guidelines for instructions on how to get started. We welcome contributions of all kinds, including code, documentation, bug fixes, and feature enhancements. <!-- leave this blank -->
