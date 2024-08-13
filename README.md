@@ -7,6 +7,14 @@
 ## Description 
 simple react app to search for books in a library and you can add them to lists
 
+## Preview
+
+![Screenshot 2024-08-12 at 7 02 00 PM](https://github.com/user-attachments/assets/a443313d-4c21-4c0e-a9ec-dbc8c4c6aebc)
+
+## Link to sight
+
+https://book-search-engine-lhxg.onrender.com
+
 ### Usage Instructions
 If you have any questions or need assistance with the project, please feel free to reach out to us through GitHub Discussions. You can start a new discussion thread to ask a question or join an existing discussion. To test our project, clone the repository from [Github](https://github.com/djinjones/book-search-engine) <!-- leave this blank -->
 
